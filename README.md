@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jselbaz
 - 👀 I’m interested in cyber security engineering and data science
-- 🌱 I’m currently learning penetrration testing on tryhackme and data science in python with a Udemy nanodegree
+- 🌱 I’m currently learning penetration testing on tryhackme and data science in python with a Udemy nanodegree
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
